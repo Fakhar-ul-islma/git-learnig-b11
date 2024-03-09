@@ -1,0 +1,82 @@
+
+.div1  {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(240, 251, 255);
+    margin: 05% 30% 05% 30%;
+    height: 450px;
+    width: 300px;
+    text-align: center;
+}
+
+
+#header {
+    background-color: rgb(224, 60, 60);
+    padding: 15PX;
+    margin: 05PX;
+}
+
+
+#nav {
+    background-color: greenyellow ;
+    padding: 05PX;
+    margin: 05PX;
+   }
+
+
+.div2 {
+    display: flex;
+    flex-direction: row-reverse;
+    /* text-align: center; */
+}
+
+
+#main {
+    background-color: rgb(154, 230, 243);
+    width: 70%;
+    padding: 15PX;
+    margin: 05PX;
+   }
+
+
+#article {
+    background-color: rgb(26, 205, 236);
+    padding: 15PX;
+    margin: 05PX;
+}
+
+
+#figure {
+    background-color: rgb(236, 236, 109);
+    padding: 15PX;
+    margin: 05PX;
+}
+
+
+#p {
+    background-color: rgb(245, 245, 76);
+    padding: 15PX;
+    margin: 05PX;
+}
+
+
+#section {
+    background-color: blue;
+    padding: 15PX;
+    margin: 05PX;
+}
+
+
+#aside {
+    background-color: peachpuff;
+    width: 30%;  
+    padding: 15PX;
+    margin: 05PX;
+}
+
+
+#footer {
+    background-color: blueviolet;
+    padding: 15PX;
+    margin: 05PX;
+}
